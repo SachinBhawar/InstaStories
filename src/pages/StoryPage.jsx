@@ -68,7 +68,7 @@ const StoryPage = ({ initialUserIdx = 0, onClose }) => {
     return (
         <div
             style={{
-                maxWidth: "600px",
+                width: "100vw",
                 height: "100vh",
                 background: "#000",
                 overflow: "hidden",
